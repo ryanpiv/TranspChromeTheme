@@ -1,0 +1,1 @@
+https://code.google.com/p/chromium/wiki/ThemeCreationGuide#theme_toolbar
